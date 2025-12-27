@@ -28,7 +28,7 @@ The project emphasizes clean code structure, error handling, and safe user input
 -  Power Calculation (x^y)
 
 - ! Factorial Calculation  
-  - Prevents overflow by limiting input to 20
+- Prevents overflow by limiting input to 20
 
 -  Temperature Conversion  
   - Celsius ↔ Fahrenheit  
