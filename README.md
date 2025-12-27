@@ -84,13 +84,13 @@ The project emphasizes clean code structure, error handling, and safe user input
 
 ---
 
-## ▶️ How to Run the Program
+##  How to Run the Program
 
-### 1️⃣ Requirements
+### 1- Requirements
 - Java JDK 8 or higher installed
 - Command Prompt / Terminal
 
-### 2️⃣ Compile the program
+### 2- Compile the program
 - javac AdvancedCalculator.java
 ---
 
