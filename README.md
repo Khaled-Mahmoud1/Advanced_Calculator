@@ -15,32 +15,32 @@ The project emphasizes clean code structure, error handling, and safe user input
 ##  Features
 
 -  Basic Arithmetic Operations  
-  - Addition  
-  - Subtraction  
-  - Multiplication  
-  - Division (with division-by-zero protection)
+ - Addition  
+ - Subtraction  
+ - Multiplication  
+ - Division (with division-by-zero protection)
 
 -  Average Calculation for multiple numbers
 
 -  Square Root Calculation  
-  - Handles negative numbers safely
+ - Handles negative numbers safely
 
 -  Power Calculation (x^y)
 
 - ! Factorial Calculation  
-- Prevents overflow by limiting input to 20
+ - Prevents overflow by limiting input to 20
 
 -  Temperature Conversion  
-  - Celsius ↔ Fahrenheit  
-  - Celsius ↔ Kelvin  
-  - Fahrenheit ↔ Kelvin
+ - Celsius ↔ Fahrenheit  
+ - Celsius ↔ Kelvin  
+ - Fahrenheit ↔ Kelvin
 
 -  Currency Conversion  
-  - Uses a custom conversion rate entered by the user
+ - Uses a custom conversion rate entered by the user
 
 -  Number Guessing Game  
-  - Limited number of attempts  
-  - Helpful hints (Higher / Lower)
+ - Limited number of attempts  
+ - Helpful hints (Higher / Lower)
 
 -  Sub-menus with "Back" option
 
